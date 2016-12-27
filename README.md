@@ -1,2 +1,1 @@
-#서울의 맛집 (Taste of Seoul)
-
+#서울의 맛집 (taste of seoul)
